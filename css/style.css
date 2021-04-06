@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+
+body {
+  display: flex;
+  max-width: 1170px;
+  
+}
+
+.menu-bar {
+  background-color: beige;
+  width: 30%;
+}
+
+.menu-bar a {
+  display: block;
+}
+
+.main-wrapper {
+  background-color: grey;
+  width: 70%;
+}
